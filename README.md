@@ -13,11 +13,16 @@ Steps
   I'm Canadian(13)
   I'm Vietnamese(15)
   I live and was born in Edmonton, Alberta(23)
+  I try to interpret what people is going through()
+
+
 
 
   -50 word of your  career plans
   going pro in the Overwatch League(6)
   ^(doesnt work)^ Website building(7)
+  I enjoy math(10)
+
 
   -List phrases about myself
 
@@ -26,6 +31,8 @@ Steps
      -Ethnicity?
      -Country?
      -Birth Place?
+     -Full Name ( written in English and in other language)
+     -Nick names (aka) that friends and family gives you
 
 
 # To Include
