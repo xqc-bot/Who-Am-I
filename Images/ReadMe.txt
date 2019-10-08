@@ -1,9 +1,13 @@
-CS10 Final Website Project
+Caution: must save all URLs and Reference the date website accessed
 
-Steps
--Google Analytics: key words to search
-Website
-  -10 word summary
-  -50 word General description
-  -50 word of your career Plans
--List Phrases about yourself
+Must have at least
+
+-3 images with hyperlinks and attention to aspect ratio, sizing
+
+
+Brainstorming for Images about myself
+
+-[Titles]
+
+
+Must have a  country flag (i.e. Canadian Flag)
