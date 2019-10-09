@@ -7,21 +7,29 @@ Steps
 
   -50 word general description
   Introvert(1)
-  PMA (Positive Mental Attitude)(5)
-  Afternoon person(7)
-  Enjoy playing video games(11)
-  I'm Canadian(13)
-  I'm Vietnamese(15)
-  I live and was born in Edmonton, Alberta(23)
-  I try to interpret what people is going through()
+  PMA (Positive Mental Attitude)(2)
+  Afternoon person(4)
+  Enjoy playing video games(8)
+  I'm Canadian(10)
+  I'm Vietnamese(12)
+  I live and was born in Edmonton, Alberta(20)
+  I enjoy watching my favorite streamer on twitch, xQcOW(29)
+  I go to Queen Elizabeth School(35)
+  Sleeping is what I do If I'm bored(43)
+  I am physically inactive(47)
+  My full name is Randy Tran Lu(54)
+
+
+
 
 
 
 
   -50 word of your  career plans
   going pro in the Overwatch League(6)
-  ^(doesnt work)^ Website building(7)
+  ^(doesnt work)^ Website building(8)
   I enjoy math(10)
+  
 
 
   -List phrases about myself
