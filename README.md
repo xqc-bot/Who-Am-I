@@ -12,7 +12,7 @@ Steps
   Enjoy playing video games(8)
   I'm Canadian(10)
   I'm Vietnamese(12)
-  I live and was born in Edmonton, Alberta(20)
+  I was born and raised in Edmonton, Alberta(20)
   I enjoy watching my favorite streamer on twitch, xQcOW(29)
   I go to Queen Elizabeth School(35)
   Sleeping is what I do If I'm bored(43)
@@ -29,7 +29,7 @@ Steps
   going pro in the Overwatch League(6)
   ^(doesnt work)^ Website building(8)
   I enjoy math(10)
-  
+
 
 
   -List phrases about myself
